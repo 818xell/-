@@ -1,0 +1,8 @@
+localhost
+play.lernixnw.com.tr
+play.lunixnw.com.tr
+play.titanyumnw.com.tr
+45.143.4.65
+play.lunanw.com.tr
+play.lapexnw.com.tr
+play.candynw.com.tr

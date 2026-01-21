@@ -7,3 +7,4 @@ play.lunanw.com.tr
 play.lapexnw.com.tr
 play.candynw.com.tr
 play.letranetwork.com.tr
+45.94.169.223

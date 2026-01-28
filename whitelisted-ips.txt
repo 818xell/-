@@ -10,3 +10,4 @@ play.letranetwork.com.tr
 45.94.169.223
 play.loremc.com.tr
 play.violetnetwork.com.tr
+89.47.113.48:25565
